@@ -68,6 +68,7 @@
     "joi": "^9.1.0",
     "json-beautify": "^1.0.1",
     "lodash": "^4.13.1",
+    "react-native-meteor-oauth": "^0.1.0",
     "uikit": "^2.18.0"
   }
 }
