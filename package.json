@@ -11,7 +11,6 @@
   "devDependencies": {
     "cheerio": "^0.22.0",
     "eslint": "^3.0.0",
-    "eslint-config-iplayer-es6": "^3.0.0",
     "eslint-plugin-jasmine": "^1.8.1",
     "eslint-plugin-mocha": "^4.0.0",
     "eslint-plugin-requirejs": "~0.10.0",
@@ -51,7 +50,12 @@
     "sinon": "^1.12.2",
     "speculate": "^1.2.0",
     "supertest": "^1.2.0",
-    "test-cat": "^1.0.1"
+    "test-cat": "^1.0.1",
+    "buble": "^0.15.2",
+    "rollup": "^0.41.6",
+    "rollup-plugin-buble": "^0.15.0",
+    "rollup-plugin-json": "^2.3.0",
+    "rollup-plugin-uglify": "^2.0.1"
   },
   "dependencies": {
     "boom": "^4.1.0",
