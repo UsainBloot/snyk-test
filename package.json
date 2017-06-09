@@ -59,6 +59,7 @@
     "rollup-plugin-uglify": "^2.0.1"
   },
   "dependencies": {
+    "ag-grid": "^10.1.0",
     "boom": "^4.1.0",
     "config": "^1.10.0",
     "deprecate": "^1.0.0",
