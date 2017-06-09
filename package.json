@@ -11,12 +11,12 @@
   "devDependencies": {
     "cheerio": "^0.22.0",
     "eslint": "^3.0.0",
-    "eslint-config-iplayer-es6": "^3.0.0",
     "eslint-plugin-jasmine": "^1.8.1",
     "eslint-plugin-mocha": "^4.0.0",
     "eslint-plugin-requirejs": "~0.10.0",
     "gel-sass-tools": "^1.2.1",
     "grunt": "~0.4.0",
+    "ghost": "0.5.0",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-pngmin": "^1.0.2",
@@ -51,7 +51,12 @@
     "sinon": "^1.12.2",
     "speculate": "^1.2.0",
     "supertest": "^1.2.0",
-    "test-cat": "^1.0.1"
+    "test-cat": "^1.0.1",
+    "buble": "^0.15.2",
+    "rollup": "^0.41.6",
+    "rollup-plugin-buble": "^0.15.0",
+    "rollup-plugin-json": "^2.3.0",
+    "rollup-plugin-uglify": "^2.0.1"
   },
   "dependencies": {
     "boom": "^4.1.0",
@@ -63,6 +68,7 @@
     "joi": "^9.1.0",
     "json-beautify": "^1.0.1",
     "lodash": "^4.13.1",
-    "react-native-meteor-oauth": "^0.1.0"
+    "react-native-meteor-oauth": "^0.1.0",
+    "uikit": "^2.18.0"
   }
 }
