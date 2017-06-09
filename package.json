@@ -61,6 +61,7 @@
   "dependencies": {
     "boom": "^4.1.0",
     "config": "^1.10.0",
+    "connect-parse-php": "0.0.1",
     "deprecate": "^1.0.0",
     "express": "^4.13.1",
     "handlebars": "^4.0.5",
